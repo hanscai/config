@@ -1,0 +1,15 @@
+[user]
+	name = Hans
+	email = hans.cai@foxmail.com
+[push]
+    default = simple
+[color]
+    ui = true
+[alias]
+    co = checkout
+    ci = commit
+    br = branch
+    st = status
+    df = diff
+    unstage = reset HEAD
+    lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
