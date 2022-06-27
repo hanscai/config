@@ -7,7 +7,7 @@
     ui = true
 [alias]
     co = checkout
-    ci = commit
+    cm = commit
     br = branch
     st = status
     df = diff
